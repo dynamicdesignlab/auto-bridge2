@@ -18,6 +18,16 @@ float64 delta_cmd_rad
 float64 delta_est_rad
 float64 fx_cmd_kn
 float64 fx_est_kn
+float64 r_2
+float64 r_1
+float64 uy_2
+float64 uy_1
+float64 ux_2
+float64 ux_1
+float64 delta_2
+float64 delta_1
+float64 fx_2
+float64 fx_1
 float64 user_def0
 float64 user_def1
 float64 user_def2
